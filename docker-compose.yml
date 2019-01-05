@@ -1,0 +1,9 @@
+---
+version: "3.0"
+services:
+  app:
+    build: .
+    image: myhro/uri
+    volumes:
+      - .:/app
+    working_dir: /app
