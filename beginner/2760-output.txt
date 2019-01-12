@@ -1,0 +1,14 @@
+RobertoCarlosAldo
+CarlosAldoRoberto
+AldoRobertoCarlos
+RobertoCarlosAldo
+---
+aaaa bbbb ccccccccxxxxx xxxx xx
+ccccxxxxx xxxx xxaaaa bbbb cccc
+xxxxx xxxx xxaaaa bbbb cccccccc
+aaaa bbbb ccccxxxxx xxxx
+---
+111111111111111111111111111111111133322
+333221111111111111111111111111111111111
+221111111111111111111111111111111111333
+111111111133322
