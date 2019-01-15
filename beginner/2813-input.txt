@@ -1,0 +1,64 @@
+3
+sol chuva
+sol chuva
+sol chuva
+---
+2
+sol chuva
+chuva sol
+---
+3
+chuva sol
+chuva chuva
+chuva chuva
+---
+3
+chuva chuva
+chuva chuva
+chuva chuva
+---
+3
+sol sol
+sol sol
+sol sol
+---
+2
+chuva sol
+sol chuva
+---
+3
+sol chuva
+sol sol
+sol chuva
+---
+30
+chuva chuva
+sol sol
+sol sol
+sol chuva
+sol sol
+chuva chuva
+chuva sol
+sol chuva
+chuva sol
+chuva chuva
+chuva chuva
+sol sol
+chuva chuva
+sol chuva
+chuva chuva
+sol chuva
+sol chuva
+chuva sol
+sol chuva
+sol chuva
+chuva chuva
+chuva sol
+sol chuva
+chuva chuva
+sol sol
+sol chuva
+sol chuva
+sol chuva
+sol chuva
+sol chuva
