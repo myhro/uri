@@ -4,6 +4,10 @@ services:
   app:
     build: .
     image: myhro/uri
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
     volumes:
       - .:/app
     working_dir: /app
