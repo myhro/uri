@@ -1,0 +1,24 @@
+CASE# 1:
+5 found at 4
+CASE# 2:
+2 not found
+3 found at 3
+---
+CASE# 1:
+3 found at 3
+CASE# 2:
+4 found at 7
+5 found at 9
+---
+CASE# 1:
+3 found at 3
+2 found at 1
+4 found at 5
+8 not found
+10 found at 8
+CASE# 2:
+1 found at 1
+11 not found
+CASE# 3:
+4 found at 3
+3 found at 1
