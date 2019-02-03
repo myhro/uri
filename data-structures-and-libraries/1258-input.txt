@@ -1,0 +1,87 @@
+9
+Maria Jose
+branco P
+Mangojata Mancuda
+vermelho P
+Cezar Torres Mo
+branco P
+Baka Lhau
+vermelho P
+JuJu Mentina
+branco M
+Amaro Dinha
+vermelho P
+Adabi Finho
+branco G
+Severina Rigudinha
+branco G
+Carlos Chade Losna
+vermelho P
+3
+Maria Joao
+branco P
+Marcio Guess
+vermelho P
+Maria Jose
+branco P
+0
+---
+18
+Maria Jose
+branco P
+Maria Jose
+branco G
+Maria Jose
+branco G
+Maria Jose
+branco M
+Mangojata Mancuda
+vermelho P
+Cezar Torres Mo
+branco P
+Baka Lhau
+vermelho P
+Baka Lhau
+vermelho M
+Baka Lhau
+vermelho G
+Baka Lhau
+vermelho P
+JuJu Mentina
+branco M
+Amaro Dinha
+vermelho P
+Adabi Finho
+branco G
+Severina Rigudinha
+branco G
+Carlos Chade Losna
+vermelho P
+Maria Joao
+branco G
+Maria Joao
+branco G
+Maria Joao
+branco G
+10
+Amaro Dinha
+vermelho P
+Maria Joao
+branco P
+Maria Joao
+branco M
+Maria Joao
+branco G
+Marcio Guess
+vermelho P
+Marcio Guess
+vermelho M
+Marcio Guess
+vermelho G
+Maria Jose
+branco P
+Maria Jose
+branco M
+Maria Jose
+branco G
+0
