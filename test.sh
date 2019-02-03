@@ -2,7 +2,7 @@
 
 set -u
 
-PREFIX=$(echo "$1" | cut -d "-" -f 1)
+PREFIX=$(echo "$1" | grep -o '.*[0-9]')
 
 for t in input output; do
     csplit --prefix "$t" --suppress-matched --quiet "${PREFIX}-${t}.txt" '/---/' '{*}'
