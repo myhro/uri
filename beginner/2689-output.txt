@@ -1,0 +1,4 @@
+Possiveis maletas: 2, 1, 6, 3;
+Possiveis maletas: 1, 6;
+Possiveis maletas: 4, 7, 2, 6, 9;
+Possiveis maletas: 78;
