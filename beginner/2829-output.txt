@@ -1,0 +1,10 @@
+Abcd
+abzd
+zbcd
+zBce
+---
+Abc
+abc
+xYz
+xyz
+zzz

@@ -1,0 +1,12 @@
+4
+Abcd
+zbcd
+zBce
+abzd
+---
+5
+Abc
+abc
+xyz
+xYz
+zzz
