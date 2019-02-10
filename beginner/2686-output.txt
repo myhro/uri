@@ -1,0 +1,100 @@
+Bom Dia!!
+06:06:00
+Boa Tarde!!
+12:22:00
+Boa Noite!!
+18:30:00
+De Madrugada!!
+00:38:00
+---
+Bom Dia!!
+06:00:00
+Bom Dia!!
+06:04:00
+Bom Dia!!
+06:04:24
+Bom Dia!!
+06:04:48
+Bom Dia!!
+06:05:12
+Bom Dia!!
+06:05:36
+Bom Dia!!
+06:06:00
+Bom Dia!!
+06:06:24
+Bom Dia!!
+06:06:48
+Bom Dia!!
+06:07:12
+Bom Dia!!
+06:07:36
+Bom Dia!!
+06:07:57
+Bom Dia!!
+06:08:00
+Bom Dia!!
+06:12:00
+Bom Dia!!
+06:16:00
+Bom Dia!!
+06:20:00
+Bom Dia!!
+06:24:00
+Bom Dia!!
+06:28:00
+Bom Dia!!
+06:32:00
+Bom Dia!!
+06:36:00
+Bom Dia!!
+06:40:00
+Bom Dia!!
+06:44:00
+Bom Dia!!
+06:48:00
+Bom Dia!!
+06:52:00
+Bom Dia!!
+06:56:00
+Bom Dia!!
+07:00:00
+Bom Dia!!
+08:00:00
+Bom Dia!!
+09:00:00
+Bom Dia!!
+10:00:00
+Bom Dia!!
+11:00:00
+Boa Tarde!!
+12:00:00
+Boa Tarde!!
+13:00:00
+Boa Tarde!!
+15:00:00
+Boa Noite!!
+18:00:00
+Boa Noite!!
+21:00:00
+De Madrugada!!
+00:00:00
+De Madrugada!!
+03:00:00
+Bom Dia!!
+06:00:00
+---
+Bom Dia!!
+06:06:00
+Boa Tarde!!
+12:22:00
+Bom Dia!!
+06:20:24
+Boa Noite!!
+18:30:00
+De Madrugada!!
+00:38:00
+De Madrugada!!
+01:12:48
+Boa Tarde!!
+16:00:00
