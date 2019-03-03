@@ -10,19 +10,23 @@ int main() {
     string input;
     string tok;
     int max;
+    int tmp;
 
     getline(cin, input);
     transform(input.begin(), input.end(), input.begin(), ::tolower);
     max = 0;
     for (int i = 0; i < (input.length() - 1); i++) {
         tok = input.substr(i, 2);
-        if (tokens[tok] == 0) {
-            tokens[tok] = 1;
+        auto item = tokens.find(tok);
+        if (item == tokens.end()) {
+            tmp = 1;
+            tokens.insert({tok, tmp});
         } else {
-            tokens[tok]++;
+            item->second++;
+            tmp = item->second;
         }
-        if (tokens[tok] > max) {
-            max = tokens[tok];
+        if (tmp > max) {
+            max = tmp;
         }
     }
 
