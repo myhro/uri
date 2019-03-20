@@ -1,0 +1,11 @@
+Invertible.
+Not invertible.
+Not a function.
+Not invertible.
+---
+Invertible.
+---
+Not a function.
+---
+Not invertible.
+Invertible.
