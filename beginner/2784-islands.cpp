@@ -1,16 +1,9 @@
 #include <climits>
+#include <functional>
 #include <iostream>
 #include <queue>
 #include <utility>
 #include <vector>
-
-// Compare swaps the comparison logic in order to sort std::priority_queue from min to max:
-class Compare {
-public:
-    bool operator()(std::pair<int, int> a, std::pair<int,int> b) {
-        return b.first < a.first;
-    }
-};
 
 class Graph {
 private:
@@ -25,7 +18,7 @@ public:
 
     std::vector<int> shortest_paths(int src) {
         auto distances = std::vector<int>(data.size(), INT_MAX);
-        std::priority_queue<std::pair<int,int>, std::vector<std::pair<int,int>>, Compare> pq;
+        std::priority_queue<std::pair<int,int>, std::vector<std::pair<int,int>>, std::greater<std::pair<int,int>>> pq;
 
         distances[src] = 0;
         pq.push(std::make_pair(0, src));
